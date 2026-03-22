@@ -11,22 +11,22 @@
 
                         STARRING
 
-Lord        moves one square any direction
+    Lord        moves one square any direction
             can summon a new piece to an adjacent square
 
-Queen       moves in any direction
+    Queen       moves in any direction
             can explode to destroy all enemy units except the lord
 
-Castle      moves on the vertical and horizontal
+    Castle      moves on the vertical and horizontal
             can teelport to swap places with the Lord
 
-Horsey      moves four squares in an L shape
+    Horsey      moves four squares in an L shape
             can go bezerk and kill ALL surrounding units
 
-Cleric      moves in the diagonal directions
+    Cleric      moves in the diagonal directions
             can fire a projectile to hit any enemy except the lord
 
-Peasant     moves one square horizontally or vertically
+    Peasant     moves one square horizontally or vertically
             attacks one square diagonally
             can charge to move two squares killing any obstacle
 
@@ -46,6 +46,4 @@ Peasant     moves one square horizontally or vertically
 
                         QUICK START
 
-to challenge people to a fight type a message in the tavern chatter
-another luser can then click your name to issue a challenge to duel
-for a random hook up click "enter queue" to be matched with someone
+https://the-game-of-kings.onrender.com/
